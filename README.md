@@ -1,1 +1,3 @@
-# GRIP1-Supervised
+# GRIP1-Supervised Learning
+
+Simple Linear Regression is used
